@@ -1,0 +1,275 @@
+body, main {
+padding: 0;
+margin: 0 auto;
+position: absolute;
+left: 18px;
+width: 375px;
+height: 767px;
+background: #EDEDED;
+border-radius: 0px;
+
+}
+
+.oldagram-img,
+.oldagram-img2 {
+position: absolute;
+left: 4%;
+right: 62.13%;
+top: 23.88%;
+bottom: 26.84%;
+background: #000000;
+height: 33.02px;
+width: 127px;
+left: 15px;
+top: 16px;
+border-radius: 0px;
+
+}
+
+.user-avatar,
+.user-avatar2 {
+position: absolute;
+left: 86.67%;
+right: 4.27%;
+top: 23.88%;
+bottom: 25.37%;
+background: url(user-avatar.png);
+background-size: cover;
+height: 34px;
+width: 34px;
+left: 325px;
+top: 16px;
+border-radius: 2151.27px;
+
+}
+
+#sec-body {
+    position: absolute;
+    width: 375px;
+    height: 545px;
+    left: 0px;
+    top: 67px;
+    background: #FFFFFF;
+    height: 545px;
+border-radius: 0px;
+ 
+}
+
+.user-info {
+display: flex;
+justify-content: space-between;
+position: absolute;
+width: 348px;
+height: 34px;
+left: 10px;
+top: 10px;
+border-radius: [object Object]px;
+
+}
+
+.user-img {
+position: absolute;
+width: 34px;
+height: 34px;
+left: 10px;
+top: 10px;
+background-color: #d9d9d9;
+border-radius: 2151.27px;
+
+}
+
+.user-names {
+    position: absolute;
+    top: -10px;
+}
+
+.user-names h3 {
+position: absolute;
+width: 307px;
+height: 16px;
+left: 51px;
+top: 11px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+
+}
+
+.user-names h4 {
+    position: absolute;
+width: 307px;
+height: 15px;
+left: 51px;
+top: 27px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+color: #000000;
+}
+
+.posted-img {
+position: absolute;
+width: 375px;
+height: 375px;
+left: 0px;
+top: 40px;
+}
+
+.likes-info {
+position: absolute;
+width: 346px;
+height: 78px;
+left: 10px;
+top: 451px;
+
+}
+
+/* icons */
+.likes-icons {
+position: absolute;
+width: 104.34px;
+height: 22.13px;
+left: 10px;
+
+}
+
+.icon-love {
+position: absolute;
+left: 2.67%;
+right: 91.12%;
+top: 82.75%;
+bottom: 13.19%;
+height: 23.3px;
+width: 25.13px;
+background: url(icon-heart.png);
+background-size: cover;
+cursor: pointer;
+/* Dark */
+}
+
+.icon-comment {
+position: absolute;
+left: 34.21%;
+right: 80.81%;
+top: 83.06%;
+bottom: 13.52%;
+height: 23.3px;
+width: 25.13px;
+background: url(icon-comment.png);
+background-size: cover;
+cursor: pointer;
+/* Dark */
+}
+
+.icon-share {
+    position: absolute;
+    left: 64.52%;
+    right: 69.51%;
+    top: 83.32%;
+    bottom: 13.26%;
+    height: 23.3px;
+    width: 25.13px;
+    background: url(icon-dm.png);
+    background-size: cover;
+    /* Dark */
+    border-radius: 0.58249px;
+    cursor: pointer;
+}
+
+.icon-share:hover {
+    border: 2.33px solid #000000;
+}
+
+.icon-share:focus {
+    opacity: 30px;
+}
+
+.icon-share:active {
+position: absolute;
+left: 70.09%;
+right: 80.2%;
+top: 86.76%;
+bottom: 12.19%;
+transform: matrix(0.71, -0.71, -0.71, -0.71, 0, 0);
+border: 2.33px solid #000000;
+}
+
+.icon-love:hover {
+    border: 2.33px solid #000000;
+}
+
+.icon-love:focus {
+    opacity: 30px;
+}
+
+.icon-love:active {
+position: absolute;
+left: 2.67%;
+right: 80.2%;
+top: 86.76%;
+bottom: 12.19%;
+transform: matrix(0.71, -0.71, -0.71, -0.71, 0, 0);
+}
+
+
+
+.icon-comment:hover {
+border: 2.33px solid #000000;
+}
+
+.icon-comment:focus {
+    opacity: 30px;
+}
+
+.icon-comment:active {
+position: absolute;
+left: 34.21%;
+right: 80.2%;
+top: 86.76%;
+bottom: 12.19%;
+transform: matrix(0.71, -0.71, -0.71, -0.71, 0, 0);
+
+}
+
+.likes-num {
+    position: absolute;
+width: 343px;
+height: 16px;
+left: 13px;
+top: 35px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+
+}
+
+.user-name {
+    position: absolute;
+width: 343px;
+height: 16px;
+left: 13px;
+top: 55px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+
+}
+
+.text-prop {
+    font-weight: lighter;
+}
+
